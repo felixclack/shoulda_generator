@@ -6,8 +6,8 @@ begin
   Jeweler::Tasks.new do |s|
     s.name = "shoulda_generator"
     s.summary = "Generators which create tests using shoulda"
-    s.email = "josh@technicalpickles.com"
-    s.homepage = "http://github.com/technicalpickles/shoulda_generator"
+    s.email = "felix@kid80.com"
+    s.homepage = "http://github.com/kid80/shoulda_generator"
     s.description = "Generators which create tests using shoulda"
     s.authors = ["Josh Nichols"]
     s.files =  FileList["[A-Z]*", "{rails_generators,lib,test}/**/*"]
